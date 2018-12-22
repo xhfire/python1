@@ -10,5 +10,5 @@ def testic():
 
 if __name__=='__main__':
 
-    for n in range(0,100):
+    for n in range(0,10):
         testic()
